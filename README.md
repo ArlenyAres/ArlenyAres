@@ -24,6 +24,7 @@ Como amante de la naturaleza, busco formas de integrar prácticas sostenibles en
 🌱 Estoy aprendiendo más sobre **arquitectura de software**,  **desarrollo de aplicaciones móviles** y **Quiero aprender IA**.
 
 📫 Cómo contactarme: [arleny.ares@gmail.com](arleny.ares@gmail.com)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arleny-medina-prince)
 
 😊👩‍💻🌱
 
@@ -54,5 +55,6 @@ As a nature lover, I seek ways to integrate sustainable practices into my work a
 🌱 I'm learning more about **software architecture**, **mobile app development**, and **I want to learn AI**.
 
 📫 How to reach me: [arleny.ares@gmail.com](mailto:arleny.ares@gmail.com)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arleny-medina-prince)
 
 😊👩‍💻🌱
