@@ -1,7 +1,7 @@
 # Hola, soy Arleny Medina Prince 👋
 ![_3e1828a1-7460-4159-a59d-dd7542b5aa16](https://github.com/ArlenyAres/ArlenyAres/assets/122264533/c32579d2-b495-462c-822c-c14ecf67f991)
 
-## Desarrolladora Web Fullstack con Pasión por el Aprendizaje Continuo y el Medio Ambiente
+## Desarrolladora Web Fullstack
 
 ### 🌿💻 Sobre Mí
 Soy una desarrolladora web fullstack con una amplia gama de conocimientos técnicos y una pasión insaciable por aprender. Mi experiencia abarca desde el frontend hasta el backend, creando aplicaciones web dinámicas y responsivas que mejoran la experiencia del usuario.
@@ -33,9 +33,9 @@ Como amante de la naturaleza, busco formas de integrar prácticas sostenibles en
 
 # Hello, I'm Arleny Medina Prince 👋
 
-## Fullstack Web Developer with a Passion for Continuous Learning and the Environment 🌿💻
+## Fullstack Web Developer  
 
-### About Me
+### 🌿💻 About Me
 I am a fullstack web developer with a broad range of technical knowledge and an insatiable passion for learning. My experience spans from frontend to backend, creating dynamic and responsive web applications that enhance user experience.
 
 ### Technical Skills
@@ -58,5 +58,6 @@ As a nature lover, I seek ways to integrate sustainable practices into my work a
 📫 How to reach me: [arleny.ares@gmail.com](mailto:arleny.ares@gmail.com)
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arleny-medina-prince)
+
 
 😊👩‍💻🌱
