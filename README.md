@@ -1,5 +1,5 @@
 # Hola, soy Arleny Medina Prince 👋
-![_3e1828a1-7460-4159-a59d-dd7542b5aa16](https://github.com/ArlenyAres/ArlenyAres/assets/122264533/c32579d2-b495-462c-822c-c14ecf67f991)
+
 
 ## Desarrolladora Web Fullstack
 
