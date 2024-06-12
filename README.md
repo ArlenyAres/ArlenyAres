@@ -1,14 +1,14 @@
 # Hola, soy Arleny Medina Prince 👋
 
 
-## Desarrolladora Web Fullstack
+## Desarrolladora Junior Web Fullstack
 
 ### 🌿💻 Sobre Mí
 Soy una desarrolladora web fullstack con una amplia gama de conocimientos técnicos y una pasión insaciable por aprender. Mi experiencia abarca desde el frontend hasta el backend, creando aplicaciones web dinámicas y responsivas que mejoran la experiencia del usuario.
 
 ### Habilidades Técnicas
 - **JavaScript** y frameworks como **React**, **Next.js** y **Vue.js**
-- Backend con **PHP**, **Laravel** y manejo de bases de datos con **MySQL**
+- Backend con **PHP**, **Laravel** / **JAVA** y manejo de bases de datos con **MySQL**
 - Diseño responsivo con **Bootstrap** y **Tailwind CSS**
 - Arquitectura **MVC** y pruebas automatizadas con **Vitest** y **Cypress**
 
@@ -33,7 +33,7 @@ Como amante de la naturaleza, busco formas de integrar prácticas sostenibles en
 
 # Hello, I'm Arleny Medina Prince 👋
 
-## Fullstack Web Developer  
+## Fullstack Junior Web Developer  
 
 ### 🌿💻 About Me
 I am a fullstack web developer with a broad range of technical knowledge and an insatiable passion for learning. My experience spans from frontend to backend, creating dynamic and responsive web applications that enhance user experience.
