@@ -1,27 +1,27 @@
-# Hola, soy Arleny Medina Prince 👋
+<div align="center">
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2VqZmZtM2RodzRybGgwemFpZTdvMmQ0OWFnNm82eHdldGF2anN5MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" alt="GIF" style="margin-bottom: 20px;"/>
+  <h1 > Hola, soy Arleny Medina Prince 👋 </h1>
+  <h2>Desarrolladora Junior </h2>
+</div>
 
-
-## Desarrolladora Junior Web Fullstack
 
 ### 🌿💻 Sobre Mí
-Soy una desarrolladora web fullstack con una amplia gama de conocimientos técnicos y una pasión insaciable por aprender. Mi experiencia abarca desde el frontend hasta el backend, creando aplicaciones web dinámicas y responsivas que mejoran la experiencia del usuario.
-
-### Habilidades Técnicas
-- **JavaScript** y frameworks como **React**, **Next.js** y **Vue.js**
-- Backend con **PHP**, **Laravel** / **JAVA** y manejo de bases de datos con **MySQL**
-- Diseño responsivo con **Bootstrap** y **Tailwind CSS**
-- Arquitectura **MVC** y pruebas automatizadas con **Vitest** y **Cypress**
+Soy una profesional en transición hacia el desarrollo de aplicaciones web con una sólida experiencia en sostenibilidad y gestión de eventos. He adquirido habilidades en HTML, CSS, JavaScript, React y Java, y tengo conocimientos en metodologías ágiles como Scrum y kanban. Mi principal motivación es combinar mi pasión por la tecnología con la conciliación familiar. Estoy comprometida con la innovación, la colaboración en equipo y el aprendizaje continuo.
 
 ### Aprendizaje y Desarrollo
-El aprendizaje es una parte esencial de mi vida. Estoy constantemente explorando nuevas tecnologías y mejorando mis habilidades para mantenerme al día con las tendencias actuales de la industria.
-
-### Compromiso con el Medio Ambiente
-Como amante de la naturaleza, busco formas de integrar prácticas sostenibles en mi trabajo y promover la conciencia ambiental a través de la tecnología.
+El aprendizaje es una parte esencial de mi vida. Ahora mismo estoy aprendiendo JAVA en ITAcademy Barrcelona.
 
 ---
 
 🔭 Actualmente estoy trabajando en proyectos personales que combinan mi amor por la programación y el medio ambiente.
 🌱 Estoy aprendiendo más sobre **arquitectura de software**,  **desarrollo de aplicaciones móviles** y **Quiero aprender IA**.
+
+-----
+
+<img src="https://github.com/devicons/devicon/raw/master/icons/figma/figma-original.svg" alt="Figma Icon" width="50" style="margin-right: 10px;"/> <img src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg" alt="GitHub Icon" width="50" style="margin-right: 10px;"/> <img src="https://github.com/devicons/devicon/raw/master/icons/vscode/vscode-original-wordmark.svg" alt="VSCode Wordmark Icon" width="50" style="margin-right: 10px;"/> <img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-original-wordmark.svg" alt="CSS3 Icon" width="50" style="margin-right: 10px;"/> <img src="https://github.com/devicons/devicon/raw/master/icons/postman/postman-original.svg" alt="Postman Icon" width="50" style="margin-right: 10px;"/> <img src="https://github.com/devicons/devicon/raw/master/icons/intellij/intellij-original.svg" alt="IntelliJ Icon" width="50" style="margin-right: 10px;"/> <img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" alt="JavaScript Icon" width="50" style="margin-right: 10px;"/> <img src="https://github.com/devicons/devicon/raw/master/icons/java/java-original-wordmark.svg" alt="Java Icon" width="50" style="margin-right: 10px;"/> <img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-plain.svg" alt="HTML5 Icon" width="50" style="margin-right: 10px;"/> <img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-original-wordmark.svg" alt="CSS3 Icon" width="50" style="margin-right: 10px;"/> <img src="https://github.com/devicons/devicon/raw/master/icons/vuejs/vuejs-original.svg" alt="Vue.js Icon" width="50" style="margin-right: 10px;"/> <img src="https://github.com/devicons/devicon/raw/master/icons/react/react-original.svg" alt="React Icon" width="50" style="margin-right: 10px;"/> <img src="https://github.com/devicons/devicon/raw/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB Icon" width="50" style="margin-right: 10px;"/> <img src="https://github.com/devicons/devicon/raw/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL Icon" width="50" style="margin-right: 10px;"/>
+
+
+
 
 📫 Cómo contactarme: [arleny.ares@gmail.com](arleny.ares@gmail.com)
 
@@ -29,35 +29,3 @@ Como amante de la naturaleza, busco formas de integrar prácticas sostenibles en
 
 😊👩‍💻🌱
 
-
-
-# Hello, I'm Arleny Medina Prince 👋
-
-## Fullstack Junior Web Developer  
-
-### 🌿💻 About Me
-I am a fullstack web developer with a broad range of technical knowledge and an insatiable passion for learning. My experience spans from frontend to backend, creating dynamic and responsive web applications that enhance user experience.
-
-### Technical Skills
-- **JavaScript** and frameworks like **React**, **Next.js**, and **Vue.js**
-- Backend with **PHP**, **Laravel**, and database management with **MySQL**
-- Responsive design with **Bootstrap** and **Tailwind CSS**
-- **MVC** architecture and automated testing with **Vitest** and **Cypress**
-
-### Learning and Development
-Learning is an essential part of my life. I am constantly exploring new technologies and honing my skills to stay up-to-date with the current industry trends.
-
-### Commitment to the Environment
-As a nature lover, I seek ways to integrate sustainable practices into my work and promote environmental awareness through technology.
-
----
-
-🔭 I'm currently working on personal projects that combine my love for programming and the environment.
-🌱 I'm learning more about **software architecture**, **mobile app development**, and **I want to learn AI**.
-
-📫 How to reach me: [arleny.ares@gmail.com](mailto:arleny.ares@gmail.com)
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arleny-medina-prince)
-
-
-😊👩‍💻🌱
