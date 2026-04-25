@@ -36,9 +36,6 @@ Me apasionan la **tecnología**, la **inteligencia artificial**, la **experienci
 -  Maquetación y desarrollo de **componentes UI** en un booking flow de aerolíneas (React / Remix / TypeScript)
 -  Integración de **GA4 ecommerce events** (purchase, ecommerce schema, dataLayer)
 -  Testing E2E con **Playwright** — load testing, Page Object Model
--  Formación Microsoft Learn: completados **AI-900** y **AZ-900** (Fundamentals) · Explorando: *Planeamiento y preparación para desarrollar soluciones de IA en Azure* (ruta AI-102)
-  
-- 🌱 Próximamente: **AI-103T00-A** – Desarrollo de aplicaciones y agentes de IA en Azure
 
 ---
 
